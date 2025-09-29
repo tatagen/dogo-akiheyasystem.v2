@@ -1,1 +1,0 @@
-# dogo-akiheyasystem.v2
